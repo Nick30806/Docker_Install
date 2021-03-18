@@ -2,4 +2,4 @@
 
 -------------------------------------------------------------------------
 
-bash <(curl -s )
+bash <(curl -s https://raw.githubusercontent.com/Nick30806/Docker_Install/master/Docker_Install.sh)
